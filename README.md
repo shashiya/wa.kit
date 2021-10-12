@@ -56,7 +56,7 @@ the user is responsible.
   [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BADBMODER/Badboy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shashiya/wa.kit)
      </div>
 <br>
 <br >
